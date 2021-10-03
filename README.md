@@ -1,1 +1,1 @@
-# Simple-Java-App-for-Maven
+# Simple-Java-App-for-Maven.
